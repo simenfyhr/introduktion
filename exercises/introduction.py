@@ -20,3 +20,13 @@ def largest_of_four(self, collection):
     Returnerar en lista med det största talet från varje lista i collection.
     """
     pass
+
+
+def rovarsprak(self, str):
+    """Returnerar strängen på rövarspråk
+    * Versaler och gemener ska vara kvar enligt instoppad sträng.
+    * Övriga tecken (.,*! etc.) ska vara kvar på samma position.
+
+    `Wikipedia<https://sv.wikipedia.org/wiki/R%C3%B6varspr%C3%A5ket>`_
+    """
+    pass
