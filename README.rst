@@ -36,7 +36,7 @@ tydlig och köra :code:`python3` istället för :code:`python`.
 
   python -m venv venv
 
-Aktivera den virtella körmiljön:
+Aktivera den virtuella körmiljön:
 
 .. code-block::
 
