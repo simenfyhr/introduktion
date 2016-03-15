@@ -29,11 +29,12 @@ skapas på sökvägen :code:`./tmp/coverage/index.html`.
 
 Innan du börjar
 ---------------
-Skapa den virtuella körmiljön med de paket som behövs.
+Skapa den virtuella körmiljön. Beroende på ditt system kan du behöva välja
+tydlig och köra :code:`python3` istället för :code:`python`.
 
 .. code-block::
 
-  pyvenv venv
+  python -m venv venv
 
 Aktivera den virtella körmiljön:
 
