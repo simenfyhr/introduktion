@@ -8,17 +8,8 @@ def repeat(string, num):
     """
     pass
 
-
 def bouncer(items):
     """Tar bort alla värden i items (arg 1) som evalueras till False."""
-    pass
-
-
-def largest_of_four(collection):
-    """Hittar de största talen i en samling med fyra listor.
-
-    Returnerar en lista med det största talet från varje lista i collection.
-    """
     pass
 
 
@@ -33,7 +24,7 @@ def rovarsprak(string):
     pass
 
 
-def calculate_area(width, height):
+def area(width, height):
     """Returnerar arean av en figur med bredden 'width' och höjden 'height'."""
     pass
 
