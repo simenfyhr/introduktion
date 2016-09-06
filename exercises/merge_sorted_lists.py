@@ -11,36 +11,6 @@ Alla docstrings har placerats före kodraderna som ska användas för problemet.
 """
 
 
-"""Givet en lista med heltal, hitta det största och returnera."""
-max_n = n
-return max_n
-for n in numbers:
-max_n = numbers[0]
-if n > max_n:
-def find_max(numbers):
-
-
-"""Givet en lista, returnera alla värden på udda positioner."""
-result.append(item)
-for item in l:
-if index % 2 == 1:
-return result
-result = []
-def odd_list(l):
-index = 0
-index += 1
-
-
-"""Givet en lista med tal, beräkna den löpande summan."""
-return total
-total.append(current)
-for n in numbers:
-total = []
-def running_total(numbers):
-current = 0
-current += n
-
-
 """Givet två sorterade listor, slå samman dess till en sorterad lista."""
 result.append(next_value)
 next_value = l1.pop(0)
